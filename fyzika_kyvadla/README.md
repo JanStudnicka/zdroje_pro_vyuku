@@ -1,4 +1,4 @@
-
+[![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=JanStudnicka/zdroje_pro_vyuku&file=fyzika_kyvadla/fyzika_kyvadla.m)
 # Fyzika Kyvadla
 
 Tento skript zkoumá pohyb jednoduchého kyvadla — od aproximace malých úhlů po plnou nelineární dynamiku — pomocí analytických řešení, numerické simulace a vizualizace.
